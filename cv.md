@@ -3,7 +3,7 @@
 
 ### Contacts
 Telephone: +375 (29) 858-40-22\
-E-mail: Anastasija.Zyskunova@gmail.com\  
+E-mail: Anastasija.Zyskunova@gmail.com
 Telegram: [@Kayoriwoo](https://t.me/Kayoriwoo)
 ### Skills
 * HTML, CSS (I can layout a multi-page site)
