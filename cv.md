@@ -1,9 +1,48 @@
-        Имя и фамилия
-        Контакты для связи
-        Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении и способности быстро учиться и узнавать новое)
-        Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструменты разработки, которыми вы владеете)
-        Примеры кода
-        Опыт работы. Junior Dev может указать пройденные курсы и тренинги, перечислить учебные проекты, или проекты, выполненные на фрилансе с указанием использованных навыков и ссылками на исходный код.
-        Образование (включая курсы, семинары, лекции, онлайн-обучение)
-        Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+#Anastasia Zyskunova
+##Front-end developer
+
+###Contacts
+Telephone: +375 (29) 858-40-22\
+E-mail: Anastasija.Zyskunova@gmail.com\  
+Telegram: [@Kayoriwoo](https://t.me/Kayoriwoo)
+###Skills
+* HTML, CSS (I can layout a multi-page site)
+* JavaScript, PHP (I'm familiar with the syntax of languages)
+* C# (I know basic OOP)
+```C#
+public static class Kata
+{
+  public static int Solution(int value)
+  {
+    if (value < 0)
+    {
+      return 0;
+    }
+    
+    int sum = 0;
+    for (int i = value - 1; i >= 0; i--) 
+    {
+      if (i % 3 == 0 || i % 5 == 0)
+      {
+        sum+= i;
+      }
+    }
+    
+    return sum;
+  }
+} 
+```
+###Education
+College of Business and Law\
+Information technology software\
+2018 - 2022
+
+###About me
+* I am ready to work in a team and individually
+* Communicative
+* I do the work on time
+* Purposeful and ready to learn new things
+* **Pre-Intermediate English** 
+
+
 
