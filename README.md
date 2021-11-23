@@ -1,1 +1,1 @@
-https://Kayoriwoo.github.io/cv
+https://Kayoriwoo.github.io/cv/cv
